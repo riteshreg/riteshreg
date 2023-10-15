@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Gharhera.com] www.gharhera.com
 
-- 🌱 I’m currently learning **deno,**
+- 🌱 I’m currently learning **cloud,**
 
 - 👨‍💻 All of my projects are available at [github.com/riteshreg](github.com/riteshreg)
 

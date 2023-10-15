@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Khadka</h1>
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
 
-- 🔭 I’m currently working on [Gharhera.com] www.gharhera.com
+- 🔭 I’m currently working on Firefly
 
 - 🌱 I’m currently learning **cloud,**
 

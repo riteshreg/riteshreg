@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Khadka</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 Founder and Ceo of Yatra Vista Technology PVT LTD.
+- 🔭 Founder and Ceo of Nextgencode PVT LTD.
 
 - 🌱 I’m currently learning **cloud,**
 

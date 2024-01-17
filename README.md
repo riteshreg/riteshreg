@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ritesh Khadka</h1>
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on Firefly
+- 🔭 Founder and Ceo of Yatra Vista Technology PVT LTD.
 
 - 🌱 I’m currently learning **cloud,**
 
 - 👨‍💻 All of my projects are available at [github.com/riteshreg](github.com/riteshreg)
 
-- 💬 Ask me about **react, nextjs, aws, nodejs**
+- 💬 Ask me about **react, nextjs, aws, nodejs, bun**
 
 - 📫 How to reach me **ritesh@gharhera.com**
 

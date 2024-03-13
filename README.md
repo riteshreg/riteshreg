@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, nextjs, aws, nodejs, bun**
 
-- 📫 How to reach me **ritesh@gharhera.com**
+- 📫 How to reach me **webriteshkhadka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

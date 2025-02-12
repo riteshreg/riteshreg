@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Khadka</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 Founder and Ceo of Deno Soft Solution.
+- 🔭 cto of yatradev
 
 - 🌱 I’m currently learning **cloud,**
 

@@ -3,7 +3,7 @@
 
 - 🔭 CTO OF <a href="https://yatradev.com/" target="blank">YATRADEV</a>
 
-- 🌱 I’m currently learning **cloud,**
+- 🌱 I’m currently learning **go,**
 
 - 👨‍💻 All of my projects are available at [github.com/riteshreg](github.com/riteshreg)
 

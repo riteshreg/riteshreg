@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Khadka</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 cto of yatradev
+- 🔭 CTO OF <a href="https://yatradev.com/" target="blank">YATRA DEV</a>
 
 - 🌱 I’m currently learning **cloud,**
 

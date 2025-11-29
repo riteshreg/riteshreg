@@ -1,5 +1,5 @@
 # 💫 Hi, I'm **Ritesh Khadka**
-### 🚀 Full-Stack Developer | Founder of Retech Labs | Cloud, Kotline & TS Ecosystem Enthusiast
+### 🚀 Full-Stack Developer | CTO of Retech Labs | Cloud, Kotline & TS Ecosystem Enthusiast
 
 I love building scalable systems, beautiful interfaces, and frictionless developer experiences.  
 Currently diving deeper into **Go** and system-level backend engineering.
@@ -7,7 +7,7 @@ Currently diving deeper into **Go** and system-level backend engineering.
 ---
 
 ## 🔥 About Me
-- 🧑‍💼 **CTO at [YATRADEV](https://yatradev.com)**
+- 🧑‍💼 **CTO at [RETECH LABS](https://retechlabs.com.np)**
 - 🌱 Currently learning **Go**
 - 💬 Ask me about **React, Next.js, AWS, Cloudflare, Kotline, Node.js, Bun**
 - 👨‍💻 All my projects: **[github.com/riteshreg](https://github.com/riteshreg)**

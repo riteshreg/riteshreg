@@ -1,5 +1,5 @@
 # 💫 Hi, I'm **Ritesh Khadka**
-### 🚀 Full-Stack Developer | CTO of Retech Labs | Cloud, Kotline & TS Ecosystem Enthusiast
+### 🚀 Full-Stack Developer | Building At Retech Labs | Cloud, Kotline & TS Ecosystem Enthusiast
 
 I love building scalable systems, beautiful interfaces, and frictionless developer experiences.  
 Currently diving deeper into **Go** and system-level backend engineering.
